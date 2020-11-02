@@ -1,4 +1,4 @@
-# OOP-
+# OOP-Exercises
 
 ## Open-Lab-10.00 (30 XP)
 Úvodne cvičenie na vytvorenie si GitHub repozitára.
