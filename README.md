@@ -71,10 +71,8 @@ Využitie dedičnosti.
 3. V projekte vytvorte dva nové súbory (typu class - prípona .cs) a nazvite ich "Book" a "Library".
 4. Do triedy Book nakopírujte z cvičenia 10.05 všetky premenné (private), ich vlastnosti (public), statický list (public), tri konštruktory, metódu na výpis premenných (public).
 5. V triede Library vytvorte premenné "numberOfBooks", "numberOfStudents", "studentsList" (list stringov), "booksList" (list Bookov) a k nim príslušné vlastnosti pre zápis i výpis.
-6. V triede Library vytvorte metódu, ktorá vypíše všetky (vlastné i zdedené) premenné.
-7. V triede Library vytvorte bezparametrický konštruktor, ktorý zavolá zdedený bezparametrický konštruktor a vlastné premenné nastaví na -1 (listy ostanú prázdne).
-8. V metóde Main() vytvorte objekt "schoolLibrary" z triedy Library. V ňom vytvorte dvoch študentov "John" a "Poul", ktorý budú mať každý po dve učebnice. Zmysluplne vyplňte všetky premenné.
-9. Z objektu schoolLibrary zavolajte metódu na vypísanie všetkých premenných.
-10. Synchronizujte projekt s GitHub a pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
+6. V metóde Main() vytvorte objekt "schoolLibrary" z triedy Library. V ňom vytvorte dvoch študentov "John" a "Poul", ktorý budú mať každý po dve učebnice. Zmysluplne vyplňte všetky premenné.
+7. Z objektu schoolLibrary zavolajte metódu na vypísanie všetkých premenných.
+8. Synchronizujte projekt s GitHub a pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 
 
